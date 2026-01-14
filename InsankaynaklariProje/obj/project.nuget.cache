@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2AwVpxMn1L4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tugba\\OneDrive\\Desktop\\Yeni klasör\\InsankaynaklariProje\\InsankaynaklariProje\\InsankaynaklariProje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tugba\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
