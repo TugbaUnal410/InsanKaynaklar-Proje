@@ -6,30 +6,41 @@
 ## Proje Özellikleri:
 
 ### Rol bazlı yetkilendirme sistemi:
-#### Giriş yapan kullanıcının rolüne göre ana menüde sunulan seçenekler dinamik olarak belirlenir.
+ Giriş yapan kullanıcının rolüne göre ana menüde sunulan seçenekler dinamik olarak belirlenir.
 
 ### Personel yetkileri:
-#### Sadece izin talebinde bulunabilir
-#### Kendi izin taleplerinin durumunu görüntüleyebilir
+ Sadece izin talebinde bulunabilir
+ 
+ Kendi izin taleplerinin durumunu görüntüleyebilir
 
 ### İnsan Kaynakları (İK) yetkileri:
-#### Personel performans işlemleri (ekleme, silme, güncelleme, listeleme)
-#### Departman işlemleri (ekleme, silme, güncelleme)
-#### Personel maaş işlemleri (ekleme, silme, güncelleme)
-#### Personel yönetimi işlemleri
-#### İzin talebinde bulunabilir
+ Personel performans işlemleri (ekleme, silme, güncelleme, listeleme)
+ 
+ Departman işlemleri (ekleme, silme, güncelleme)
+ 
+ Personel maaş işlemleri (ekleme, silme, güncelleme)
+ 
+ Personel yönetimi işlemleri(ekleme,silme,güncelleme)
+ 
+ İzin talebinde bulunabilirler
 
 ### Yönetici yetkileri:
-#### Beklemede olan izin taleplerini görüntüleme
-#### İzin taleplerini onaylama veya reddetme
-#### Raporlama ekranına erişim
-#### Sistem üzerindeki tüm işlemlere erişim
+Beklemede olan izin taleplerini görüntüleme
+
+İzin taleplerini onaylama veya reddetme
+
+Raporlama ekranına erişim
+
+Sistem üzerindeki tüm işlemlere erişim
 
 ### 📂 Kullanılan Teknolojiler
-####  C# (.NET Framework)
-####  Windows Forms (Masaüstü uygulama tasarımı)
-#### MySQL (Veritabanı)
-#### Varlık Katmanı : Katmanlı mimari (Domain,DAL, BLL,UI)
+ C# (.NET Framework)
+ 
+ Windows Forms (Masaüstü uygulama tasarımı)
+ 
+ MySQL (Veritabanı)
+ 
+ Varlık Katmanı : Katmanlı mimari (Domain,DAL, BLL,UI)
 
 
 # 📸 Ekran Görüntüleri
@@ -110,11 +121,15 @@
 
 
  ### Proje Yapısı
-#### Domain : Uygulamanın iş kurallarını ve temel varlıklarını tanımlayan çekirdek yapıdır.
-#### DAL : Veritabanı iletişim sağlayan verilere CRUD işlemlerinin yapıldığı katmandır.
-#### BLL : İş kurallarını uygulayan,DAL katmanından gelen veriyi kontrol eder.UI ile DAL arasında köprü görevi gören katmndır.
-#### UI : Windows Forms ile kullanıcyla etkileşime girilen katmandır.
-#### MySQL : Verileri tablolar halinde saklayan,veritabanı yönetim sistemidir.
+ Domain : Uygulamanın iş kurallarını ve temel varlıklarını tanımlayan çekirdek yapıdır.
+ 
+ DAL : Veritabanı iletişim sağlayan verilere CRUD işlemlerinin yapıldığı katmandır.
+ 
+ BLL : İş kurallarını uygulayan,DAL katmanından gelen veriyi kontrol eder.UI ile DAL arasında köprü görevi gören katmndır.
+ 
+ UI : Windows Forms ile kullanıcyla etkileşime girilen katmandır.
+ 
+ MySQL : Verileri tablolar halinde saklayan,veritabanı yönetim sistemidir.
 
 
 ### 📞 İletişim
