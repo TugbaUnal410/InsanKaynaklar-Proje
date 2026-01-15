@@ -26,8 +26,8 @@
 #### Sistem üzerindeki tüm işlemlere erişim
 
 ### 📂 Kullanılan Teknolojiler
-#### * C# (.NET Framework)
-#### * Windows Forms (Masaüstü uygulama tasarımı)
+####  C# (.NET Framework)
+####  Windows Forms (Masaüstü uygulama tasarımı)
 #### MySQL (Veritabanı)
 #### Varlık Katmanı : Katmanlı mimari (Domain,DAL, BLL,UI)
 
